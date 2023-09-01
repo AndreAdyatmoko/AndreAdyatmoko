@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre Adyatmoko</h1>
-<h3 align="center">A passionate frontend developer from Temanggung</h3>
+<h3 align="center">A passionate backend developer without home :p </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreadyatmoko&label=Profile%20views&color=0e75b6&style=flat" alt="andreadyatmoko" /> </p>
 
