@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/3qNGQE9](https://bit.ly/3qNGQE9)
 
-- ⚡ Fun fact **I think, I am need more experience and need to learning again 😉**
+- ⚡ Fun fact ** I love dog 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
