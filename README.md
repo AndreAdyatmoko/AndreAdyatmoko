@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **node.js and express.js**
 
+- 💬 At this time, I just learning about Go-Lang
+
 - 📫 How to reach me **andreadyatmoko@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3qNGQE9](https://bit.ly/3qNGQE9)
