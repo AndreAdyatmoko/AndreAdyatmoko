@@ -9,11 +9,8 @@
 
 - 🤝 I’m looking for help with **My Skill**
 
-- 👨‍💻 All of my projects are available at [https://private-cv-project.vercel.app/](https://private-cv-project.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://private-porto.vercel.app/](https://private-porto.vercel.app/)
 
-- 💬 Ask me about **node.js and express.js**
-
-- 💬 At this time, I just learning about Go-Lang
 
 - 📫 How to reach me **andreadyatmoko@gmail.com**
 
